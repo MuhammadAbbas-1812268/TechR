@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267636828975",
+    "firebase_url": "https://techr-67aa3-default-rtdb.firebaseio.com",
+    "project_id": "techr-67aa3",
+    "storage_bucket": "techr-67aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267636828975:android:189708692bcf4205b2cfda",
+        "android_client_info": {
+          "package_name": "com.example.techr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267636828975-63shdpkodjk5tdh09bmtda46qu0lmtss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmdkt-ANU7xaQMREmP3fxpePNmQq6Mn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267636828975-63shdpkodjk5tdh09bmtda46qu0lmtss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
